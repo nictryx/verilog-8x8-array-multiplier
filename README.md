@@ -54,3 +54,8 @@ The top-level module connects the multiplier output to the display system and mu
 - Xilinx Vivado
 - Structural Modeling
 - Gate-Level Design
+
+## Project Goal
+
+The goal of this project is to design and implement an 8-bit arithmetic unit using structural Verilog capable of calculating **Z = ¼(A × B)** through array multiplication and right-shift scaling, then verify its operation through simulation and implementation on the Nexys 4 DDR FPGA board.
+
