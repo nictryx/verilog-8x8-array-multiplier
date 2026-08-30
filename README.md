@@ -47,7 +47,7 @@ The top-level module connects the multiplier output to the display system and mu
 
 ## Tech Stack
 
-- Verilog HDL
+- Verilog
 - Digital Logic Design
 - FPGA
 - Nexys 4 DDR
